@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLiteTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_text_view">TextViewActivity</string>
+    <string name="btn_textView">Text View</string>
+    <string name="btn_listActivity">List Activity</string>
+    <string name="btn_listContent">List Content</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_list_view_content">ListViewContentActivity</string>
+    <string name="empty">No events!</string>
+</resources>
